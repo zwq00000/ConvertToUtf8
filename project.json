@@ -1,0 +1,29 @@
+{
+  "version": "1.0.1-*",
+  "title": "ConvertTo Utf8",
+  "description": "convert .cs file encoding to utf-8",
+  "authors": [
+    "zwq00000@gmail.com"
+  ],
+  "owners": [
+    "zwq00000@gmail.com"
+  ],
+  "tags": [
+    "encoding"
+  ],
+  "compilationOptions": {
+    "platform": "anycpu",
+    "optimize": true,
+    "emitEntryPoint": true
+  },
+  "commands": {
+    "run": "ConvertToUtf8"
+  },
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": {
+
+    }
+  }
+} 
